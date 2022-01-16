@@ -1,6 +1,6 @@
 # Setup
 title: D-Seeker
-description: 某在校本科生，欢迎来到我的博客，大家一起学习进步！
+description: 某在校本科生，欢迎来到我的博客，用于记录学习，大家一起学习进步！
 url: https://D-Seeker.github.io
 avatar: /head.jpg
 paginate: 5
@@ -28,20 +28,20 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: D-Seeker
-  card: summary
-logo: logo.png
-social:
-  name: D-Seeker
-  links:
-    - https://github.com/D-Seeker
-google_site_verification: xxxxx
-lang: en
+# twitter:
+#   username: D-Seeker
+#   card: summary
+# logo: logo.png
+# social:
+#   name: D-Seeker
+#   links:
+#     - https://github.com/D-Seeker
+# google_site_verification: xxxxx
+# lang: en
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# sass:
+#   sass_dir: _sass
+#   style: :compressed
 
 # Options
 
@@ -52,7 +52,7 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
-  name: D-Seeker
-  url: https://github.com/D-Seeker/
-  email: DSeekerLu@outlook.com
+# author:
+#   name: D-Seeker
+#   url: https://github.com/D-Seeker/
+#   email: DSeekerLu@outlook.com
