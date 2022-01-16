@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: D-Seeker
+description: 某在校本科生，欢迎来到我的博客，大家一起学习进步！
 url: https://D-Seeker.github.io
-avatar: /avatar.jpeg
+avatar: /head.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.png
 
 # Gems
 plugins:
