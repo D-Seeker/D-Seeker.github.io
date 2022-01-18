@@ -52,7 +52,7 @@ exclude:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-# author:
-#   name: D-Seeker
-#   url: https://github.com/D-Seeker/
-#   email: DSeekerLu@outlook.com
+author:
+  name: D-Seeker
+  url: https://github.com/D-Seeker/
+  email: DSeekerLu@outlook.com
